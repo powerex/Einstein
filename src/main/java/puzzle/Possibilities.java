@@ -1,3 +1,5 @@
+package puzzle;
+
 public class Possibilities implements Parameters {
     private int pos[][][];
 

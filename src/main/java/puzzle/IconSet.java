@@ -1,3 +1,5 @@
+package puzzle;
+
 /**
  * Created by AZbest on 23.02.2016.
  */
